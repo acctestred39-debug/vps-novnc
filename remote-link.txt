@@ -1,9 +1,0 @@
-=======================================================
-noVNC INFO - DucThang x TrueHieu Edition
-=======================================================
-URL       : https://programmer-computation-filme-springer.trycloudflare.com/vnc.html
-Password  : hieudz
-Host      : trycloudflare
-Protocol  : noVNC over Cloudflared
-Created   : 2026-11-27 02:48:11
-=======================================================
